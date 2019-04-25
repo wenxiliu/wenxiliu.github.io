@@ -16,13 +16,14 @@ author_profile: true
 {% endfor %}
 
 
-* Feigege Wang, Yue Gu, **Wenxi Liu***, Yuanlong Yu, Shengfeng He, Jia Pan: Context-aware Spatio-recurrent Curvilinear Structure Segmentation. CVPR 2019
-* Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: Single Image Reflection Removal Beyond Linearity. CVPR 2019
-* **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: Deformable Object Tracking with Gated Fusion. IEEE Trans. Image Processing, 2019
-* Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair. IEEE Trans. Circuits Syst. Video Techn. 2019
-* Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: Enhancement Mask for Hippocampus Detection and Segmentation. IEEE International Conference on Information and Automation, 2018
-* Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan: Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning. ICRA 2018
-* Pinxin Long, **Wenxi Liu***, Jia Pan*: Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation. IEEE Robotics and Automation Letters 2(2): 656-663, 2017 
+* Feigege Wang, Yue Gu, **Wenxi Liu***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation*. CVPR 2019
+* Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
+* **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing, 2019
+* Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. 2019
+* Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha: *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds.* IEEE Robotics and Automation Letters 4(2): 1178-1185, 2019 
+* Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: *Enhancement Mask for Hippocampus Detection and Segmentation.* IEEE International Conference on Information and Automation, 2018
+* Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan: *Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning.* ICRA 2018
+* Pinxin Long, **Wenxi Liu\***, Jia Pan\*: *Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation.* IEEE Robotics and Automation Letters 2(2): 656-663, 2017 
 * **Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha: *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories*. IEEE Trans. Multimedia 18(12): 2398-240, 2016 
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Robust individual and holistic features for crowd scene classification*. Pattern Recognition 58: 110-120, 2016
 * Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision 115(3): 330-344, 2015 
