@@ -1,2 +1,1 @@
-
-Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+* Feigege Wang, Yue Gu, Wenxi Liu*, Yuanlong Yu, Shengfeng He, Jia Pan: <i>Context-aware Spatio-recurrent Curvilinear Structure Segmentation. CVPR 2019</i>
