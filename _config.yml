@@ -80,11 +80,7 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "刘文犀"
-=======
-  name             : "wxl 刘文"
->>>>>>> parent of 7761dc6... edit about
   avatar           : "profile.png"
   bio              : #"Associate professor, College of Mathematics and Computer Science, Fuzhou University"
   location         : "Fuzhou, China"
