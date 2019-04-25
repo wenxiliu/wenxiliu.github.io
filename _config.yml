@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "刘文犀"
   avatar           : "profile.png"
-  bio              : #"Associate professor, College of Mathematics and Computer Science, Fuzhou University"
+  bio              : "Associate Professor, College of Mathematics and Computer Science, Fuzhou University"
   location         : "Fuzhou, China"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
