@@ -18,5 +18,6 @@ Research Interests
 My research interests include (but not limited to) vision-based crowd analysis and medical image analysis.
 
 
-Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our team! {: .notice}
+Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our team! 
+{: .notice}
 
