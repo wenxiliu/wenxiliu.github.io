@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+* Feigege Wang, Yue Gu, Wenxi Liu*, Yuanlong Yu, Shengfeng He, Jia Pan: Context-aware Spatio-recurrent Curvilinear Structure Segmentation. CVPR 2019
