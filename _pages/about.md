@@ -16,9 +16,9 @@ Research Interests
 :   My research interests include (but not limited to) vision-based crowd analysis and medical image analysis.
 
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/research_sum.jpg'>"
-collection: portfolio
+title: ""
+excerpt: "<img src='/images/research_sum.jpg'>"
+#collection: portfolio
 ---
 
 Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our team! 
