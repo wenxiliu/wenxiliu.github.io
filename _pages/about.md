@@ -18,5 +18,5 @@ Research Interests
 <font size=2 face="Courier">My research interests include (but not limited to) vision-based crowd analysis and medical image analysis. </font>
 
 
-> Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our wolf pack!
+> <font size=2>Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our wolf pack!</font>
 
