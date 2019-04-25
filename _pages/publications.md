@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications reversed %
   {% include archive-single.html %}
 {% endfor %}
 
@@ -21,4 +21,14 @@ author_profile: true
 * **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: Deformable Object Tracking with Gated Fusion. IEEE Trans. Image Processing, 2019
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair. IEEE Trans. Circuits Syst. Video Techn. 2019
 * Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: Enhancement Mask for Hippocampus Detection and Segmentation. IEEE International Conference on Information and Automation, 2018
-* 
+* Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan: Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning. ICRA 2018
+* Pinxin Long, **Wenxi Liu***, Jia Pan*: Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation. IEEE Robotics and Automation Letters 2(2): 656-663, 2017 
+* **Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha: *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories*. IEEE Trans. Multimedia 18(12): 2398-240, 2016 
+* **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Robust individual and holistic features for crowd scene classification*. Pattern Recognition 58: 110-120, 2016
+* Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision 115(3): 330-344, 2015 
+* Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *BRVO: Predicting pedestrian trajectories using velocity-space reasoning*. I. J. Robotics Res. 34(2): 201-217, 2015
+* **Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha: *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking*. IEEE Trans. Circuits Syst. Video Techn. 25(3): 399-410, 2015 
+* **Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha: *Data-driven sequential goal selection model for multi-agent simulation.* ACM Symposium on Virtual Reality Software and Technology. 2014
+* Stephen J. Guy, Jur van den Berg, **Wenxi Liu**, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *A statistical similarity measure for aggregate crowd dynamics*. ACM Trans. Graph. 31(6): 190:1-190:11, 2012
+* **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Crowd simulation using Discrete Choice Model.* IEEE Virtual Reality 2012
+* Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng: *Combined X-ray and facial videos for phoneme-level articulator dynamics.* The Visual Computer 26(6-8): 477-486, 2010
