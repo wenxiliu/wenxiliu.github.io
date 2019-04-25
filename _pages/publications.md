@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-* Feigege Wang, Yue Gu, **Wenxi Liu***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019
+* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019
 * Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
 * **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing, 2019
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. 2019
