@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019
+* Xiaosheng Yan, Yuanlong Yu, Feigege Wang, **Wenxi Liu\***, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery* ICCV 2019
+* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
 * Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
 * **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing, 2019 [[PDF](https://arxiv.org/abs/1809.10417)][[Code](https://github.com/magiratex34/deform_tracking)]
 * **Wenxi Liu**, Chun-Yang Zhang, Naixue Xiong, Genggeng Liu, Yaru Su: *Extraversion Measure for Crowd Trajectories.* IEEE Trans. on Industrial Informatics, SS on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019 
