@@ -17,6 +17,5 @@ Research Interests
 
 <img src='/images/research_sum.jpg'>
 
-Looking for self-motivated and dedicated undergrade/postgraduate students with good programming skills to join our team! 
 {: .notice}
 
