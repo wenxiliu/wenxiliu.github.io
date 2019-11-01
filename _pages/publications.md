@@ -20,6 +20,7 @@ author_profile: true
 * Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
 * **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing, 2019 [[PDF](https://arxiv.org/abs/1809.10417)][[Code](https://github.com/magiratex34/deform_tracking)]
 * **Wenxi Liu**, Chun-Yang Zhang, Genggeng Liu, Yaru Su, Naixue Xiong: *Extraversion Measure for Crowd Trajectories.* IEEE Trans. on Industrial Informatics, Special Section on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019 
+* Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau: *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* IEEE Trans. Image Processing, 2019
 * Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu**: *Deep compression of probabilistic graphical networks* Pattern Recognition, 2019
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. 2019
 * Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha: *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds.* IEEE Robotics and Automation Letters 4(2): 1178-1185, 2019 
