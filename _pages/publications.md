@@ -28,7 +28,7 @@ author_profile: true
 * **Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha: *Data-driven sequential goal selection model for multi-agent simulation.* ACM Symposium on Virtual Reality Software and Technology. 2014
 * Stephen J. Guy, Jur van den Berg, **Wenxi Liu**, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *A statistical similarity measure for aggregate crowd dynamics*. ACM Trans. Graph. 31(6): 190:1-190:11, 2012
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Crowd simulation using Discrete Choice Model.* IEEE Virtual Reality 2012
-* Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng: *Combined X-ray and facial videos for phoneme-level articulator dynamics.* The Visual Computer 26(6-8): 477-486, 2010
+
 
 ## Image/Vision/Learning Related Works
 * Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality 2020 (Oral Presentation). 
@@ -40,4 +40,5 @@ author_profile: true
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. 2019
 * Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: *Enhancement Mask for Hippocampus Detection and Segmentation.* IEEE International Conference on Information and Automation, 2018 [[arxiv](https://arxiv.org/abs/1902.04244)]
 * Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision 115(3): 330-344, 2015 
+* Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng: *Combined X-ray and facial videos for phoneme-level articulator dynamics.* The Visual Computer 26(6-8): 477-486, 2010
 
