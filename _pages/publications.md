@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Crowd and Multi-robot Related Works
+## Crowd and Multi-robot Related Works
 
-# Image/Vision Related Works
+## Image/Vision Related Works
 
 * Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality 2020. 
 * Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*, ICCV 2019 [[Arxiv](https://arxiv.org/abs/1907.09381)]
