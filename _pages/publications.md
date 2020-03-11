@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Crowd and Multi-robot Related Works
+* Tingxiang Fan, Pinxin Long, **Wenxi Liu\***, Jia Pan\*: *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios*. International Journal on Robotics Research, 2020.
 * **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing, 2019 [[arxiv](https://arxiv.org/abs/1809.10417)][[code](https://github.com/magiratex34/deform_tracking)]
 * **Wenxi Liu**, Chun-Yang Zhang, Genggeng Liu, Yaru Su, Naixue Xiong: *Extraversion Measure for Crowd Trajectories.* IEEE Trans. on Industrial Informatics, Special Section on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019 
 * Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha: *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds.* IEEE Robotics and Automation Letters 4(2): 1178-1185, 2019 
@@ -23,7 +24,7 @@ author_profile: true
 * Pinxin Long, **Wenxi Liu\***, Jia Pan\*: *Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation.* IEEE Robotics and Automation Letters 2(2): 656-663, 2017 
 * **Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha: *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories*. IEEE Trans. Multimedia 18(12): 2398-240, 2016 [[PDF](http://www.cs.cityu.edu.hk/~rynson/papers/tmm16.pdf)]
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Robust individual and holistic features for crowd scene classification*. Pattern Recognition 58: 110-120, 2016
-* Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *BRVO: Predicting pedestrian trajectories using velocity-space reasoning*. I. J. Robotics Res. 34(2): 201-217, 2015
+* Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *BRVO: Predicting pedestrian trajectories using velocity-space reasoning*. International Journal on Robotics Research 34(2): 201-217, 2015
 * **Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha: *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking*. IEEE Trans. Circuits Syst. Video Techn. 25(3): 399-410, 2015 [[PDF](http://www.cs.cityu.edu.hk/~rynson/papers/tcsvt15.pdf)]
 * **Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha: *Data-driven sequential goal selection model for multi-agent simulation.* ACM Symposium on Virtual Reality Software and Technology. 2014
 * Stephen J. Guy, Jur van den Berg, **Wenxi Liu**, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *A statistical similarity measure for aggregate crowd dynamics*. ACM Trans. Graph. 31(6): 190:1-190:11, 2012
