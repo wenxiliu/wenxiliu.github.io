@@ -33,6 +33,7 @@ author_profile: true
 
 
 ## Image/Vision/Learning Related Works
+* Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang: *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes*, ECCV 2020.
 * Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality (VR) 2020 (Oral Presentation). 
 * Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong: *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions*, IEEE Transactions on Cybernetics 2020.
 * Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau: *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* IEEE Trans. Image Processing (TIP), 2020
