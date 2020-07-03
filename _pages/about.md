@@ -15,7 +15,8 @@ About Me
 Research Interests
 :   vision-based crowd understanding, robot vision, medical image analysis, and image processing, etc.
 
-News: 
+News
+:
 * One paper accepted by ECCV 2020
 * One paper accepted as Oral presentation by IEEE VR 2020
 * One paper accepted by ICCV 2019
