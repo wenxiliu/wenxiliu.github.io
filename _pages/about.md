@@ -17,5 +17,8 @@ Research Interests
 
 <img src='/images/research_sum.jpg'>
 
+News
+:   One paper accepted in ECCV 2020!
+
 {: .notice}
 
