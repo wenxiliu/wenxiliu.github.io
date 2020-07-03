@@ -19,6 +19,7 @@ Research Interests
 
 News
 :   One paper accepted in ECCV 2020!
+:   One paper accepted in IEEE VR 2020!
 
 {: .notice}
 
