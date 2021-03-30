@@ -15,7 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Segmentation Related Works
+* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021.
+* Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He: *Reciprocal Transformations for Unsupervised Video Object Segmentation*, CVPR 2021.
+* Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
+* Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
+* Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*, ICCV 2019 [[arxiv](https://arxiv.org/abs/1907.09381)]
+* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
+* Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision (IJCV) 115(3): 330-344, 2015 
+
 ## Crowd and Multi-robot Related Works
+* Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou: *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck*, CVPR 2021.
 * Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
 * Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He: *Crowd Counting via Cross-stage Refinement Networks*. IEEE Transactions on Image Processing (TIP), 2020.
 * Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan: *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios*. International Journal on Robotics Research (IJRR), 2020.
@@ -33,20 +43,16 @@ author_profile: true
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Crowd simulation using Discrete Choice Model.* IEEE Virtual Reality (VR) 2012
 
 
-## Image/Vision/Learning Related Works
+## Image/Learning Related Works
+* Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau: *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions*. IEEE Transactions on Image Processing (TIP), 2021.
 * Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He: *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling*, IEEE Trans. Image Processing (TIP), 2020.
-* Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
-* Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
 * Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang: *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes*, ECCV 2020.
 * Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality (VR) 2020 (Oral Presentation). 
 * Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong: *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions*, IEEE Transactions on Cybernetics 2020.
 * Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau: *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* IEEE Trans. Image Processing (TIP), 2020
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. (TCSVT) 2020
-* Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*, ICCV 2019 [[arxiv](https://arxiv.org/abs/1907.09381)]
-* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
 * Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
 * Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu**: *Deep compression of probabilistic graphical networks* Pattern Recognition (PR), 2019
 * Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: *Enhancement Mask for Hippocampus Detection and Segmentation.* IEEE International Conference on Information and Automation (ICIA), 2018 [[arxiv](https://arxiv.org/abs/1902.04244)]
-* Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision (IJCV) 115(3): 330-344, 2015 
 * Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng: *Combined X-ray and facial videos for phoneme-level articulator dynamics.* The Visual Computer 26(6-8): 477-486, 2010
 
