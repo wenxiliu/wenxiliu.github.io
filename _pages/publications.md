@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Image Segmentation
-* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021.
+* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021. [[code](https://github.com/JonDoe-297/cross-view)]
 * Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He: *Reciprocal Transformations for Unsupervised Video Object Segmentation*, CVPR 2021.
 * Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
 * Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
