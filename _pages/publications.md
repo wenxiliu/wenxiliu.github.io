@@ -16,12 +16,12 @@ author_profile: true
 {% endfor %}
 
 ## Image Segmentation
-* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021. [[code](https://github.com/JonDoe-297/cross-view)]
+* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021. [[code](https://github.com/JonDoe-297/cross-view)][[pdf](https://github.com/wenxiliu/wenxiliu.github.io/blob/master/files/CVPR21_Crossview.pdf)]
 * Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He: *Reciprocal Transformations for Unsupervised Video Object Segmentation*, CVPR 2021.
 * Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
 * Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
 * Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*, ICCV 2019 [[arxiv](https://arxiv.org/abs/1907.09381)]
-* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
+* Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
 * Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision (IJCV) 115(3): 330-344, 2015 
 
 ## Crowd and Multi-robots
@@ -35,10 +35,10 @@ author_profile: true
 * Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha: *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds.* IEEE Robotics and Automation Letters (RAL) 4(2): 1178-1185, 2019 
 * Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan: *Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning.* ICRA 2018
 * Pinxin Long, **Wenxi Liu\***, Jia Pan\*: *Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation.* IEEE Robotics and Automation Letters (RAL) 2(2): 656-663, 2017 
-* **Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha: *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories*. IEEE Trans. Multimedia (TMM) 18(12): 2398-240, 2016 [[PDF](http://www.cs.cityu.edu.hk/~rynson/papers/tmm16.pdf)]
+* **Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha: *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories*. IEEE Trans. Multimedia (TMM) 18(12): 2398-240, 2016 [[pdf](http://www.cs.cityu.edu.hk/~rynson/papers/tmm16.pdf)]
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Robust individual and holistic features for crowd scene classification*. Pattern Recognition (PR) 58: 110-120, 2016
 * Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *BRVO: Predicting pedestrian trajectories using velocity-space reasoning*. International Journal on Robotics Research (IJRR) 34(2): 201-217, 2015
-* **Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha: *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking*. IEEE Trans. Circuits Syst. Video Techn. (TCSVT) 25(3): 399-410, 2015 [[PDF](http://www.cs.cityu.edu.hk/~rynson/papers/tcsvt15.pdf)]
+* **Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha: *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking*. IEEE Trans. Circuits Syst. Video Techn. (TCSVT) 25(3): 399-410, 2015 [[pdf](http://www.cs.cityu.edu.hk/~rynson/papers/tcsvt15.pdf)]
 * **Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha: *Data-driven sequential goal selection model for multi-agent simulation.* ACM Symposium on Virtual Reality Software and Technology (VRST). 2014
 * Stephen J. Guy, Jur van den Berg, **Wenxi Liu**, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha: *A statistical similarity measure for aggregate crowd dynamics*. ACM Trans. Graph. (TOG) 31(6): 190:1-190:11, 2012
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Crowd simulation using Discrete Choice Model.* IEEE Virtual Reality (VR) 2012
