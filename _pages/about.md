@@ -16,9 +16,10 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
-:   Three papers accepted in CVPR 2021!
-:   One paper accepted in ECCV 2020!
-:   One paper accepted in IEEE VR 2020!
+:   - The code of *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation* has been released.
+:   - Three papers accepted in CVPR 2021! 
+:   - One paper accepted in ECCV 2020!
+:   - One paper accepted in IEEE VR 2020!
 
 <img src='/images/research_sum.jpg'>
 
