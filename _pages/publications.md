@@ -47,8 +47,8 @@ author_profile: true
 
 ## Image/Learning Related Works
 * Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau: *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions*. IEEE Transactions on Image Processing (TIP), 2021. [[code](https://github.com/nonu116/HDR-GAN)]
+* Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang: *EBRB cascade classifier for imbalanced data via rule weight updating*, Knowledge-Based Systems (KBS), 2021
 * Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He: *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling*, IEEE Trans. Image Processing (TIP), 2020.
-* Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang: *EBRB cascade classifier for imbalanced data via rule weight updating*, Knowledge-Based Systems (KBS), 2021.
 * Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang: *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes*, ECCV 2020.
 * Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality (VR) 2020 (Oral Presentation). 
 * Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong: *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions*, IEEE Transactions on Cybernetics 2020.
