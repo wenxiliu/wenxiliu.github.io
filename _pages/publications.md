@@ -26,6 +26,7 @@ author_profile: true
 
 ## Crowd and Multi-robots
 * Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou: *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck*, CVPR 2021.
+* Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin: *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning*, IROS 2021.
 * Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
 * Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He: *Crowd Counting via Cross-stage Refinement Networks*. IEEE Transactions on Image Processing (TIP), 2020.
 * Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan: *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios*. International Journal on Robotics Research (IJRR), 2020.
