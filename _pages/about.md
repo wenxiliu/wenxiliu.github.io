@@ -16,6 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
+:   - The code of *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* has been released.
 :   - The code of *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation* has been released.
 :   - Three papers accepted in CVPR 2021! 
 :   - One paper accepted in ECCV 2020!
