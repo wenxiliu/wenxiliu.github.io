@@ -26,6 +26,7 @@ author_profile: true
 * Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang: *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection*. International Journal of Computer Vision (IJCV) 115(3): 330-344, 2015 
 
 ## Crowd and Multi-robots
+* Ke Guo, **Wenxi Liu**, Jia Pan: *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps*, CVPR 2022
 * Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou: *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck*, CVPR 2021.
 * Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin: *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning*, IROS 2021.
 * Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
@@ -47,6 +48,7 @@ author_profile: true
 
 
 ## Image/Learning Related Works
+* Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\***: *Perceptual-aware and Restorable Real-time Image Downscaling*. ICME 2022.
 * Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau: *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions*. IEEE Transactions on Image Processing (TIP), 2021. [[code](https://github.com/nonu116/HDR-GAN)]
 * Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang: *EBRB cascade classifier for imbalanced data via rule weight updating*, Knowledge-Based Systems (KBS), 2021
 * Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He: *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling*, IEEE Trans. Image Processing (TIP), 2020.
