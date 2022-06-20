@@ -39,7 +39,7 @@ author_profile: true
 * *Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning* <br>Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan <br>**ICRA 2018**
 * *Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation* <br>Pinxin Long, **Wenxi Liu\***, Jia Pan\* <br>**IEEE Robotics and Automation Letters (RAL), 2017**
 * *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories* <br>**Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha <br>**IEEE Trans. Multimedia (TMM), 2016** [[preprint](http://www.cs.cityu.edu.hk/~rynson/papers/tmm16.pdf)]
-* *Robust individual and holistic features for crowd scene classification* <br>**Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha <br>Pattern Recognition (PR), 2016
+* *Robust individual and holistic features for crowd scene classification* <br>**Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha <br>**Pattern Recognition (PR), 2016**
 * *BRVO: Predicting pedestrian trajectories using velocity-space reasoning* <br>Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha <br>**International Journal on Robotics Research (IJRR), 2015**
 * *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking* <br>**Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2015** [[preprint](http://www.cs.cityu.edu.hk/~rynson/papers/tcsvt15.pdf)]
 * *Data-driven sequential goal selection model for multi-agent simulation* <br>**Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha <br>**ACM Symposium on Virtual Reality Software and Technology (VRST) 2014**
@@ -48,12 +48,12 @@ author_profile: true
 
 
 ## Miscellaneous
-* Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\***: *Perceptual-aware and Restorable Real-time Image Downscaling*. ICME 2022.
-* Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau: *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions*. IEEE Transactions on Image Processing (TIP), 2021. [[code](https://github.com/nonu116/HDR-GAN)]
-* Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang: *EBRB cascade classifier for imbalanced data via rule weight updating*, Knowledge-Based Systems (KBS), 2021
-* Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He: *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling*, IEEE Trans. Image Processing (TIP), 2020.
-* Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang: *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes*, ECCV 2020. [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
-* Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo: *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography*, IEEE Virtual Reality (VR) 2020 (Oral Presentation). 
+* *Perceptual-aware and Restorable Real-time Image Downscaling* <br>Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\*** <br>**ICME 2022**
+* *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* <br>Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau <br>**IEEE Transactions on Image Processing (TIP), 2021** [[code](https://github.com/nonu116/HDR-GAN)]
+* *EBRB cascade classifier for imbalanced data via rule weight updating* <br>Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang <br>**Knowledge-Based Systems (KBS), 2021**
+* *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling* <br>Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
+* *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes* <br>Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang <br>**ECCV 2020** [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
+* *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography* <br>Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo <br>**IEEE Virtual Reality (VR) 2020** (Oral) 
 * Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong: *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions*, IEEE Transactions on Cybernetics 2020.
 * Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau: *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* IEEE Trans. Image Processing (TIP), 2020
 * Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. (TCSVT) 2020
