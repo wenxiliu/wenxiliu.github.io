@@ -18,8 +18,8 @@ author_profile: true
 ## Segmentation 
 * *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
 * *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://github.com/wenxiliu/wenxiliu.github.io/blob/master/files/CVPR21_Crossview.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
-* Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He: *Reciprocal Transformations for Unsupervised Video Object Segmentation*, CVPR 2021.
-* Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
+* *Reciprocal Transformations for Unsupervised Video Object Segmentation* <br>Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He <br>**CVPR 2021**
+* *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree* <br>Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP) 2020**
 * Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
 * Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*, ICCV 2019 [[arxiv](https://arxiv.org/abs/1907.09381)]
 * Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan: *Context-aware Spatio-recurrent Curvilinear Structure Segmentation.* CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
