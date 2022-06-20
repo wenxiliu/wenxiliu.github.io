@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Segmentation
-* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>ICCV 2021 <br>[[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
-* Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan: *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, CVPR 2021. [[pdf](https://github.com/wenxiliu/wenxiliu.github.io/blob/master/files/CVPR21_Crossview.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
+## Segmentation 
+* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
+* *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://github.com/wenxiliu/wenxiliu.github.io/blob/master/files/CVPR21_Crossview.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
 * Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He: *Reciprocal Transformations for Unsupervised Video Object Segmentation*, CVPR 2021.
 * Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He: *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree*, IEEE Trans. Image Processing (TIP), 2020.
 * Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Learning Long-term Structural Dependencies for Video Salient Object Detection*, IEEE Trans. Image Processing (TIP), 2020.
@@ -47,7 +47,7 @@ author_profile: true
 * **Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha: *Crowd simulation using Discrete Choice Model.* IEEE Virtual Reality (VR) 2012
 
 
-## Image/Learning Related Works
+## Miscellaneous
 * Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\***: *Perceptual-aware and Restorable Real-time Image Downscaling*. ICME 2022.
 * Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau: *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions*. IEEE Transactions on Image Processing (TIP), 2021. [[code](https://github.com/nonu116/HDR-GAN)]
 * Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang: *EBRB cascade classifier for imbalanced data via rule weight updating*, Knowledge-Based Systems (KBS), 2021
