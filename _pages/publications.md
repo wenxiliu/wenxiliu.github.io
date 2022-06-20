@@ -23,6 +23,7 @@ author_profile: true
 * *Learning Long-term Structural Dependencies for Video Salient Object Detection*<br>Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br>Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]
 * *Context-aware Spatio-recurrent Curvilinear Structure Segmentation* <br>Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**CVPR 2019** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
+* *Enhancement Mask for Hippocampus Detection and Segmentation* <br>Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu <br>**IEEE International Conference on Information and Automation (ICIA), 2018** [[arxiv](https://arxiv.org/abs/1902.04244)]
 * *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection* <br>Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang <br>**International Journal of Computer Vision (IJCV), 2015**
 
 ## Crowd and Multi-robots
@@ -59,6 +60,5 @@ author_profile: true
 * *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair* <br>Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2020**
 * *Single Image Reflection Removal Beyond Linearity* <br>Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**CVPR 2019**
 * *Deep compression of probabilistic graphical networks* <br> Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu** <br>**Pattern Recognition (PR), 2019**
-* *Enhancement Mask for Hippocampus Detection and Segmentation* <br>Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu <br>**IEEE International Conference on Information and Automation (ICIA), 2018** [[arxiv](https://arxiv.org/abs/1902.04244)]
 * *Combined X-ray and facial videos for phoneme-level articulator dynamics* <br>Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng <br>**The Visual Computer, 2010**
 
