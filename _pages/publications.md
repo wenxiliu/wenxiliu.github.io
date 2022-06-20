@@ -54,11 +54,11 @@ author_profile: true
 * *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling* <br>Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes* <br>Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang <br>**ECCV 2020** [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
 * *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography* <br>Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo <br>**IEEE Virtual Reality (VR) 2020** (Oral) 
-* Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong: *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions*, IEEE Transactions on Cybernetics 2020.
-* Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau: *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* IEEE Trans. Image Processing (TIP), 2020
-* Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau: *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair.* IEEE Trans. Circuits Syst. Video Techn. (TCSVT) 2020
-* Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *Single Image Reflection Removal Beyond Linearity.* CVPR 2019
-* Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu**: *Deep compression of probabilistic graphical networks* Pattern Recognition (PR), 2019
-* Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu: *Enhancement Mask for Hippocampus Detection and Segmentation.* IEEE International Conference on Information and Automation (ICIA), 2018 [[arxiv](https://arxiv.org/abs/1902.04244)]
-* Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng: *Combined X-ray and facial videos for phoneme-level articulator dynamics.* The Visual Computer 26(6-8): 477-486, 2010
+* *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions* <br>Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong <br>**IEEE Transactions on Cybernetics 2020**
+* *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* <br>Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau <br>**IEEE Trans. Image Processing (TIP), 2020**
+* *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair* <br>Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2020**
+* *Single Image Reflection Removal Beyond Linearity* <br>Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**CVPR 2019**
+* *Deep compression of probabilistic graphical networks* <br> Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu** <br>**Pattern Recognition (PR), 2019**
+* *Enhancement Mask for Hippocampus Detection and Segmentation* <br>Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu <br>**IEEE International Conference on Information and Automation (ICIA), 2018** [[arxiv](https://arxiv.org/abs/1902.04244)]
+* *Combined X-ray and facial videos for phoneme-level articulator dynamics* <br>Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng <br>**The Visual Computer, 2010**
 
