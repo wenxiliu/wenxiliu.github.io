@@ -22,18 +22,18 @@ author_profile: true
 * *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree* <br>Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Learning Long-term Structural Dependencies for Video Salient Object Detection*<br>Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br>Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]
-* *Context-aware Spatio-recurrent Curvilinear Structure Segmentation* <br>Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
+* *Context-aware Spatio-recurrent Curvilinear Structure Segmentation* <br>Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**CVPR 2019** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
 * *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection* <br>Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang <br>**International Journal of Computer Vision (IJCV), 2015**
 
 ## Crowd and Multi-robots
-* Ke Guo, **Wenxi Liu**, Jia Pan: *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps*, CVPR 2022
-* Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou: *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck*, CVPR 2021.
-* Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin: *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning*, IROS 2021.
-* Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He: *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
-* Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He: *Crowd Counting via Cross-stage Refinement Networks*. IEEE Transactions on Image Processing (TIP), 2020.
-* Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan: *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios*. International Journal on Robotics Research (IJRR), 2020.
-* Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan, Ruigang Yang, Dinesh Manocha: *Learning Resilient Behaviors for Navigation Under Uncertainty.* ICRA 2020.
-* **Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau: *Deformable Object Tracking with Gated Fusion.* IEEE Trans. Image Processing (TIP), 2019 [[arxiv](https://arxiv.org/abs/1809.10417)][[code](https://github.com/magiratex34/deform_tracking)]
+* *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* <br>Ke Guo, **Wenxi Liu**, Jia Pan <br>**CVPR 2022**
+* *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck* <br>Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou <br>**CVPR 2021**
+* *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning* <br>Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin <br>**IROS 2021**
+* *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond* <br>Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He  <br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020**
+* *Crowd Counting via Cross-stage Refinement Networks* <br>Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He <br>**IEEE Transactions on Image Processing (TIP), 2020**
+* *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan <br>**International Journal on Robotics Research (IJRR), 2020**
+* *Learning Resilient Behaviors for Navigation Under Uncertainty* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan, Ruigang Yang, Dinesh Manocha <br>**ICRA 2020**
+* *Deformable Object Tracking with Gated Fusion* <br>**Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau <br>**IEEE Trans. Image Processing (TIP), 2019** [[arxiv](https://arxiv.org/abs/1809.10417)][[code](https://github.com/magiratex34/deform_tracking)]
 * **Wenxi Liu**, Chun-Yang Zhang, Genggeng Liu, Yaru Su, Naixue Xiong: *Extraversion Measure for Crowd Trajectories.* IEEE Trans. on Industrial Informatics (TII), Special Section on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019 
 * Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha: *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds.* IEEE Robotics and Automation Letters (RAL) 4(2): 1178-1185, 2019 
 * Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan: *Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning.* ICRA 2018
