@@ -34,8 +34,8 @@ author_profile: true
 * *Crowd Counting via Cross-stage Refinement Networks* <br>Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He <br>**IEEE Transactions on Image Processing (TIP), 2020**
 * *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan <br>**International Journal on Robotics Research (IJRR), 2020**
 * *Learning Resilient Behaviors for Navigation Under Uncertainty* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan, Ruigang Yang, Dinesh Manocha <br>**ICRA 2020**
-* *Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu**, Shengfeng He, Jia Pan, Antoni B. Chan<br> [[arxiv](https://arxiv.org/abs/2006.05127)]
-* *Recurrent Distillation based Crowd Counting* <br>Yue Gu, **Wenxi Liu** <br> [[arxiv](https://arxiv.org/abs/2006.07755)]
+* *Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu**, Shengfeng He, Jia Pan, Antoni B. Chan<br>Arxiv 2020 [[arxiv](https://arxiv.org/abs/2006.05127)]
+* *Recurrent Distillation based Crowd Counting* <br>Yue Gu, **Wenxi Liu** <br>Arxiv 2020 [[arxiv](https://arxiv.org/abs/2006.07755)]
 * *Deformable Object Tracking with Gated Fusion* <br>**Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau <br>**IEEE Trans. Image Processing (TIP), 2019** [[arxiv](https://arxiv.org/abs/1809.10417)][[code](https://github.com/magiratex34/deform_tracking)]
 * *Extraversion Measure for Crowd Trajectories* <br>**Wenxi Liu**, Chun-Yang Zhang, Genggeng Liu, Yaru Su, Naixue Xiong <br>**IEEE Trans. on Industrial Informatics (TII), Special Section on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019** 
 * *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds* <br>Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha <br>**IEEE Robotics and Automation Letters (RAL), 2019**
