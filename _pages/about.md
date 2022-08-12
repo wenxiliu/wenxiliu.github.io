@@ -23,7 +23,6 @@ News
 :   - One paper accepted in ECCV 2020! 
 :   - One paper accepted in IEEE VR 2020!
 
-<img src='/images/research_sum.jpg'>
 
 
 
