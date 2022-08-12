@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## Segmentation 
-* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
-* *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://github.com/wenxiliu/wenxiliu.github.io/blob/master/files/CVPR21_Crossview.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
+* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
+* *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
 * *Reciprocal Transformations for Unsupervised Video Object Segmentation* <br>Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He <br>**CVPR 2021**
 * *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree* <br>Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Learning Long-term Structural Dependencies for Video Salient Object Detection*<br>Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
