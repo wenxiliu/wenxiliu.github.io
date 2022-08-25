@@ -28,6 +28,7 @@ author_profile: true
 
 ## Crowd and Multi-robots
 * *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* <br>Ke Guo, **Wenxi Liu**, Jia Pan <br>**CVPR 2022**
+* *Monocular Camera-based Complex Obstacle Avoidance via Efficient Deep Reinforcement Learning* <br>Jianchuan Ding, Lingping Gao, **Wenxi Liu**, Haiyin Piao, Jia Pan, Zhenjun Du, Xin Yang, Baocai Yin <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
 * *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck* <br>Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou <br>**CVPR 2021**
 * *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning* <br>Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin <br>**IROS 2021**
 * *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond* <br>Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He  <br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020**
@@ -51,6 +52,7 @@ author_profile: true
 
 
 ## Miscellaneous
+* *Comment-Guided Semantics-Aware Image Aesthetics Assessment* <br>Yuzhen Niu, Shanshan Chen, Bingrui Song, Zhixian Chen, **Wenxi Liu** <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
 * *Perceptual-aware and Restorable Real-time Image Downscaling* <br>Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\*** <br>**ICME 2022**
 * *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* <br>Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau <br>**IEEE Transactions on Image Processing (TIP), 2021** [[code](https://github.com/nonu116/HDR-GAN)]
 * *EBRB cascade classifier for imbalanced data via rule weight updating* <br>Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang <br>**Knowledge-Based Systems (KBS), 2021**
