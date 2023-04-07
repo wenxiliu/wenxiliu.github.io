@@ -16,9 +16,11 @@ author_profile: true
 {% endfor %}
 
 ## Segmentation 
+* *Edge Distraction-aware Salient Object Detection* <br>Sucheng Ren, **Wenxi Liu**, Jianbo Jiao, Guoqiang Han, Shengfeng He<br> **IEEE Transactions on Multimedia, 2023**
 * *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
 * *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
 * *Reciprocal Transformations for Unsupervised Video Object Segmentation* <br>Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He <br>**CVPR 2021**
+* *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling* <br>Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree* <br>Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Learning Long-term Structural Dependencies for Video Salient Object Detection*<br>Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br>Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]
@@ -27,6 +29,7 @@ author_profile: true
 * *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection* <br>Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang <br>**International Journal of Computer Vision (IJCV), 2015**
 
 ## Crowd and Multi-robots
+* *Frame-Event Alignment and Fusion Network for High Frame Rate Tracking* <br>Jiqing Zhang, Yuanchen Wang, **Wenxi Liu**, Meng Li, Jinpeng Bai, Baocai Yin, Xin Yang<br>**CVPR 2023**
 * *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* <br>Ke Guo, **Wenxi Liu**, Jia Pan <br>**CVPR 2022**
 * *Monocular Camera-based Complex Obstacle Avoidance via Efficient Deep Reinforcement Learning* <br>Jianchuan Ding, Lingping Gao, **Wenxi Liu**, Haiyin Piao, Jia Pan, Zhenjun Du, Xin Yang, Baocai Yin <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
 * *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck* <br>Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou <br>**CVPR 2021**
@@ -53,12 +56,10 @@ author_profile: true
 
 ## Miscellaneous
 * *Progressive Moire Removal and Texture Complementation for Image Demoireing* <br>Yuzhen Niu, Zhihua Lin, **Wenxi Liu***, Wenzhong Guo<br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2023**
-* *Edge Distraction-aware Salient Object Detection* <br>Sucheng Ren, **Wenxi Liu**, Jianbo Jiao, Guoqiang Han, Shengfeng He<br> **IEEE Transactions on Multimedia, 2023**
 * *Comment-Guided Semantics-Aware Image Aesthetics Assessment* <br>Yuzhen Niu, Shanshan Chen, Bingrui Song, Zhixian Chen, **Wenxi Liu** <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
 * *Perceptual-aware and Restorable Real-time Image Downscaling* <br>Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\*** <br>**ICME 2022**
 * *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* <br>Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau <br>**IEEE Transactions on Image Processing (TIP), 2021** [[code](https://github.com/nonu116/HDR-GAN)]
 * *EBRB cascade classifier for imbalanced data via rule weight updating* <br>Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang <br>**Knowledge-Based Systems (KBS), 2021**
-* *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling* <br>Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes* <br>Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang <br>**ECCV 2020** [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
 * *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography* <br>Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo <br>**IEEE Virtual Reality (VR) 2020** (Oral) 
 * *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions* <br>Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong <br>**IEEE Transactions on Cybernetics 2020**
