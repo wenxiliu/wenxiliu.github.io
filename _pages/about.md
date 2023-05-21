@@ -24,7 +24,7 @@ News
 :   - One paper accepted in IEEE VR 2020!
 
 Services
-:   Reviewer: CVPR, ICCV, ECCV, IJCV, TIP, TCSVT, TNNLS, NeurIPS, ICML, ICRA, IROS, RAL, ESWA, KBS, NCAA, TRC
+:   - Reviewer: CVPR, ICCV, ECCV, IJCV, TIP, TCSVT, TNNLS, NeurIPS, ICML, ICRA, IROS, RAL, ESWA, KBS, NCAA, TRC
 
 
 
