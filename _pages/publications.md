@@ -55,6 +55,7 @@ author_profile: true
 
 
 ## Miscellaneous
+* *Single-View View Synthesis with Self-Rectified Pseudo-Stereo* <br>Yang Zhou, Hanjie Wu, **Wenxi Liu**, Zheng Xiong, Jing Qin, Shengfeng He<br>**International Journal of Computer Vision (IJCV), 2023**
 * *Progressive Moire Removal and Texture Complementation for Image Demoireing* <br>Yuzhen Niu, Zhihua Lin, **Wenxi Liu***, Wenzhong Guo<br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2023**
 * *Comment-Guided Semantics-Aware Image Aesthetics Assessment* <br>Yuzhen Niu, Shanshan Chen, Bingrui Song, Zhixian Chen, **Wenxi Liu** <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
 * *Perceptual-aware and Restorable Real-time Image Downscaling* <br>Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\*** <br>**ICME 2022**
