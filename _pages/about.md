@@ -10,7 +10,7 @@ redirect_from:
 
 
 About Me
-:   Wenxi Liu is currently a Professor at College of Computer and Data Science, Fuzhou University, China. He currently serves as the dean of the Computer Science department. His research interests lie in the computer vision applications on crowd analysis and image understanding. He served as the visiting research associate at the Univeristy of Hong Kong, working with Prof. Wenping Wang and Prof. Jia Pan. He earned the Ph.D. degree from Computer Science Department at City University of Hong Kong in 2014, under the co-supervision of Prof. Rynson W.H. Lau and Prof. Dinesh Manocha. During his PhD, he visited the GAMMA group at University of North Carolina, Chapel Hill and IVPLab at Chinese University of Hong Kong, supervised by Prof. Dinesh Manocha and Prof. Xiaogang Wang, respectively. He has served as the reviewer of prestigious conferences and journals: CVPR, ICCV, ECCV, NeurIPS, ICML, IJCV, TIP, and so forth.
+:   Wenxi Liu is currently a Professor at College of Computer and Data Science, Fuzhou University, China. He currently serves as the dean of the Computer Science Department. He earned the Ph.D. degree from Computer Science Department at City University of Hong Kong in 2014, under the co-supervision of Prof. Rynson W.H. Lau and Prof. Dinesh Manocha. He also worked as the visiting research associate at the Computer Science Department, the University of Hong Kong with Prof. Wenping Wang. His research interests lie in the computer vision applications on crowd analysis, scene understanding, and multi-robot navigation. His research has led to over 40 scientific publications on top-tier conferences and journals in computer vision, virtual reality, robotics, and graphics, including CVPR, ICCV, VR, ICRA, SIGGRAPH, IJCV, TIP, IJRR, etc. He has also served as the reviewer of several prestigious conferences and journals.
 
 Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
@@ -22,6 +22,9 @@ News
 :   - Three papers accepted in CVPR 2021! 
 :   - One paper accepted in ECCV 2020! 
 :   - One paper accepted in IEEE VR 2020!
+
+Services
+:   Reviewer: CVPR, ICCV, ECCV, IJCV, TIP, TCSVT, TNNLS, NeurIPS, ICML, ICRA, IROS, RAL, ESWA, KBS, NCAA, TRC
 
 
 
