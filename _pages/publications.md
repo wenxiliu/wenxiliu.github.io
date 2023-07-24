@@ -55,6 +55,8 @@ author_profile: true
 
 
 ## Miscellaneous
+* *CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting*<br> Weiying Zheng, Cheng Xu, Xuemiao Xu, **Wenxi Liu**, Shengfeng He<br>**ICCV 2023**
+* *Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion* <br>Yutao Jiang, Yang Zhou, Yuan Liang, **Wenxi Liu**, Jianbo Jiao, Yuhui Quan, Shengfeng He<br>**ICCV 2023**
 * *Single-View View Synthesis with Self-Rectified Pseudo-Stereo* <br>Yang Zhou, Hanjie Wu, **Wenxi Liu**, Zheng Xiong, Jing Qin, Shengfeng He<br>**International Journal of Computer Vision (IJCV), 2023**
 * *Progressive Moire Removal and Texture Complementation for Image Demoireing* <br>Yuzhen Niu, Zhihua Lin, **Wenxi Liu***, Wenzhong Guo<br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2023**
 * *Comment-Guided Semantics-Aware Image Aesthetics Assessment* <br>Yuzhen Niu, Shanshan Chen, Bingrui Song, Zhixian Chen, **Wenxi Liu** <br> **IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2022**
