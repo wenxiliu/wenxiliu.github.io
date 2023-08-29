@@ -55,7 +55,7 @@ author_profile: true
 
 
 ## Miscellaneous
-* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen
+* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications**
 * *CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting*<br> Weiying Zheng, Cheng Xu, Xuemiao Xu, **Wenxi Liu**, Shengfeng He<br>**ICCV 2023**
 * *Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion* <br>Yutao Jiang, Yang Zhou, Yuan Liang, **Wenxi Liu**, Jianbo Jiao, Yuhui Quan, Shengfeng He<br>**ICCV 2023**
 * *Single-View View Synthesis with Self-Rectified Pseudo-Stereo* <br>Yang Zhou, Hanjie Wu, **Wenxi Liu**, Zheng Xiong, Jing Qin, Shengfeng He<br>**International Journal of Computer Vision (IJCV), 2023**
