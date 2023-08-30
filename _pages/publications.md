@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2023 
-* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications**
-* *Monocular Depth Estimation for Glass Walls with Context: A New Dataset and Method*<br>Yuan Liang, Bailin Deng, **Wenxi Liu**, Jing Qin, Shengfeng He<br>**TPAMI**
+* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023**
+* *Monocular Depth Estimation for Glass Walls with Context: A New Dataset and Method*<br>Yuan Liang, Bailin Deng, **Wenxi Liu**, Jing Qin, Shengfeng He<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023**
 * *Edge Distraction-aware Salient Object Detection* <br>Sucheng Ren, **Wenxi Liu**, Jianbo Jiao, Guoqiang Han, Shengfeng He<br> **IEEE Transactions on Multimedia, 2023**
 * *Frame-Event Alignment and Fusion Network for High Frame Rate Tracking* <br>Jiqing Zhang, Yuanchen Wang, **Wenxi Liu**, Meng Li, Jinpeng Bai, Baocai Yin, Xin Yang<br>**CVPR 2023**
 * *CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting*<br> Weiying Zheng, Cheng Xu, Xuemiao Xu, **Wenxi Liu**, Shengfeng He<br>**ICCV 2023**
