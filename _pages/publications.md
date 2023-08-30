@@ -41,38 +41,42 @@ author_profile: true
 * *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* <br>Yuzhen Niu, Jianbin Wu, **Wenxi Liu\***, Wenzhong Guo, Rynson W.H. Lau <br>**IEEE Transactions on Image Processing (TIP), 2021** [[code](https://github.com/nonu116/HDR-GAN)]
 * *EBRB cascade classifier for imbalanced data via rule weight updating* <br>Yang-Geng Fu, Hong-Yun Huang, Yu Guan, Ying-Ming Wang, **WenxiLiu\***, Wei-Jie Fang <br>**Knowledge-Based Systems (KBS), 2021**
 
-## 2020 and Before
+## 2020
 * *Boundary-aware RGBD Salient Object Detection with Cross-modal Feature Sampling* <br>Yuzhen Niu, Guanchao Long, **Wenxi Liu\***, Wenzhong Guo, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Real-Time Hierarchical Supervoxel Segmentation via a Minimum Spanning Tree* <br>Bo Wang, Yiliang Chen, **Wenxi Liu**, Jing Qin, Yong Du, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
 * *Learning Long-term Structural Dependencies for Video Salient Object Detection*<br>Bo Wang, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**IEEE Trans. Image Processing (TIP), 2020**
-* *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br>Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]
-* *Context-aware Spatio-recurrent Curvilinear Structure Segmentation* <br>Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**CVPR 2019** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
-* *Enhancement Mask for Hippocampus Detection and Segmentation* <br>Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu <br>**IEEE International Conference on Information and Automation (ICIA), 2018** [[arxiv](https://arxiv.org/abs/1902.04244)]
-* *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection* <br>Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang <br>**International Journal of Computer Vision (IJCV), 2015**
 * *CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond* <br>Liangyu Chai, Yongtuo Liu, **Wenxi Liu**, Guoqiang Han, Shengfeng He  <br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020**
 * *Crowd Counting via Cross-stage Refinement Networks* <br>Yongtuo Liu, Qiang Wen, Haoxin Chen, **Wenxi Liu**, Jing Qin, Guoqiang Han, Shengfeng He <br>**IEEE Transactions on Image Processing (TIP), 2020**
 * *Distributed Multi-Robot Collision Avoidance via Deep Reinforcement Learning for Navigation in Complex Scenarios* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan <br>**International Journal on Robotics Research (IJRR), 2020**
 * *Learning Resilient Behaviors for Navigation Under Uncertainty* <br>Tingxiang Fan, Pinxin Long, **Wenxi Liu**, Jia Pan, Ruigang Yang, Dinesh Manocha <br>**ICRA 2020**
-* *Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu***, Shengfeng He, Jia Pan, Antoni B. Chan<br>**Arxiv 2020** [[arxiv](https://arxiv.org/abs/2006.05127)]
+* *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes* <br>Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang <br>**ECCV 2020** [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
+* *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography* <br>Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo <br>**IEEE Virtual Reality (VR) 2020** (Oral) 
+* *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions* <br>Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong <br>**IEEE Transactions on Cybernetics 2020**
+* *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* <br>Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau <br>**IEEE Trans. Image Processing (TIP), 2020**
+* *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair* <br>Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2020**
 * *Recurrent Distillation based Crowd Counting* <br>Yue Gu, **Wenxi Liu*** <br>**Arxiv 2020** [[arxiv](https://arxiv.org/abs/2006.07755)]
+* *Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu***, Shengfeng He, Jia Pan, Antoni B. Chan<br>**Arxiv 2020** [[arxiv](https://arxiv.org/abs/2006.05127)]
+
+## 2019
+* *Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br>Xiaosheng Yan, Feigege Wang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]
+* *Context-aware Spatio-recurrent Curvilinear Structure Segmentation* <br>Feigege Wang, Yue Gu, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**CVPR 2019** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Context-Aware_Spatio-Recurrent_Curvilinear_Structure_Segmentation_CVPR_2019_paper.pdf)]
 * *Deformable Object Tracking with Gated Fusion* <br>**Wenxi Liu**, Yibing Song, Dengsheng Chen, Shengfeng He, Yuanlong Yu, Tao Yan, Rynson W. H. Lau <br>**IEEE Trans. Image Processing (TIP), 2019** [[arxiv](https://arxiv.org/abs/1809.10417)][[code](https://github.com/magiratex34/deform_tracking)]
 * *Extraversion Measure for Crowd Trajectories* <br>**Wenxi Liu**, Chun-Yang Zhang, Genggeng Liu, Yaru Su, Naixue Xiong <br>**IEEE Trans. on Industrial Informatics (TII), Special Section on Emerging Trends Issues and Challenges in Edge Artificial Intelligence, 2019** 
 * *Getting Robots Unfrozen and Unlost in Dense Pedestrian Crowds* <br>Tingxiang Fan, Xinjing Cheng, Jia Pan, Pinxin Long, **Wenxi Liu**, Ruigang Yang, Dinesh Manocha <br>**IEEE Robotics and Automation Letters (RAL), 2019**
+* *Single Image Reflection Removal Beyond Linearity* <br>Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**CVPR 2019**
+* *Deep compression of probabilistic graphical networks* <br> Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu** <br>**Pattern Recognition (PR), 2019**
+
+## 2018 and Before
+* *Enhancement Mask for Hippocampus Detection and Segmentation* <br>Dengsheng Chen, **Wenxi Liu\***, You Huang, Tong Tong, Yuanlong Yu <br>**IEEE International Conference on Information and Automation (ICIA), 2018** [[arxiv](https://arxiv.org/abs/1902.04244)]
 * *Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning* <br>Pinxin Long, Tingxiang Fan, Xinyi Liao, **Wenxi Liu**, Hao Zhang, Jia Pan <br>**ICRA 2018**
 * *Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation* <br>Pinxin Long, **Wenxi Liu\***, Jia Pan\* <br>**IEEE Robotics and Automation Letters (RAL), 2017**
 * *Exemplar-AMMs: Recognizing Crowd Movements From Pedestrian Trajectories* <br>**Wenxi Liu**, Rynson W. H. Lau, Xiaogang Wang, Dinesh Manocha <br>**IEEE Trans. Multimedia (TMM), 2016** [[preprint](http://www.cs.cityu.edu.hk/~rynson/papers/tmm16.pdf)]
 * *Robust individual and holistic features for crowd scene classification* <br>**Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha <br>**Pattern Recognition (PR), 2016**
 * *BRVO: Predicting pedestrian trajectories using velocity-space reasoning* <br>Sujeong Kim, Stephen J. Guy, **Wenxi Liu**, David Wilkie, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha <br>**International Journal on Robotics Research (IJRR), 2015**
 * *Leveraging Long-Term Predictions and Online Learning in Agent-Based Multiple Person Tracking* <br>**Wenxi Liu**, Antoni B. Chan, Rynson W. H. Lau, Dinesh Manocha <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2015** [[preprint](http://www.cs.cityu.edu.hk/~rynson/papers/tcsvt15.pdf)]
+* *SuperCNN: A Superpixelwise Convolutional Neural Network for Salient Object Detection* <br>Shengfeng He, Rynson W. H. Lau, **Wenxi Liu**, Zhe Huang, Qingxiong Yang <br>**International Journal of Computer Vision (IJCV), 2015**
 * *Data-driven sequential goal selection model for multi-agent simulation* <br>**Wenxi Liu**, Zhe Huang, Rynson W. H. Lau, Dinesh Manocha <br>**ACM Symposium on Virtual Reality Software and Technology (VRST) 2014**
 * *A statistical similarity measure for aggregate crowd dynamics* <br>Stephen J. Guy, Jur van den Berg, **Wenxi Liu**, Rynson W. H. Lau, Ming C. Lin, Dinesh Manocha <br>**ACM Trans. Graph. (TOG), 2012**
 * *Crowd simulation using Discrete Choice Model* <br>**Wenxi Liu**, Rynson W. H. Lau, Dinesh Manocha <br>**IEEE Virtual Reality (VR) 2012**
-* *Mapping in a Cycle: Sinkhorn Regularized Unsupervised Learning for Point Cloud Shapes* <br>Lei Yang, **Wenxi Liu**, Zhiming Cui, Nenglun Chen, Wenping Wang <br>**ECCV 2020** [[code](https://github.com/LeiYangJustin/Map-in-a-Cycle)]
-* *Recurrent Enhancement of Visual Comfort for Casual Stereoscopic Photography* <br>Yuzhen Niu, Qingyang Zheng, **Wenxi Liu\***, Wenzhong Guo <br>**IEEE Virtual Reality (VR) 2020** (Oral) 
-* *3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions* <br>Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong <br>**IEEE Transactions on Cybernetics 2020**
-* *Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* <br>Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau <br>**IEEE Trans. Image Processing (TIP), 2020**
-* *Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair* <br>Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2020**
-* *Single Image Reflection Removal Beyond Linearity* <br>Qiang Wen, Yinjie Tan, Jing Qin, **Wenxi Liu**, Guoqiang Han, Shengfeng He <br>**CVPR 2019**
-* *Deep compression of probabilistic graphical networks* <br> Chun-Yang, Zhang, Qi Zhao, C.L. Philip Chen, **Wenxi Liu** <br>**Pattern Recognition (PR), 2019**
 * *Combined X-ray and facial videos for phoneme-level articulator dynamics* <br>Hui Chen, Lan Wang, **Wenxi Liu**, Pheng-Ann Heng <br>**The Visual Computer, 2010**
 
