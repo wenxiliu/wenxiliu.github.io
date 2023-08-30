@@ -16,13 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
-:   - *A deep learning-based stripe self-correction method for stitched microscopic images* accepted by Nature Communications
-:   - One paper *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* accepted in ICCV 2021! The code will be released. 
-:   - The code of *HDR-GAN: HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions* has been released.
-:   - The code of *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation* has been released.
-:   - Three papers accepted in CVPR 2021! 
-:   - One paper accepted in ECCV 2020! 
-:   - One paper accepted in IEEE VR 2020!
+:   - *A deep learning-based stripe self-correction method for stitched microscopic images* accepted by Nature Communications (Aug. 2023)
 
 Services
 :   - Reviewer: CVPR, ICCV, ECCV, IJCV, TIP, TCSVT, TNNLS, NeurIPS, ICML, ICRA, IROS, RAL, ESWA, KBS, NCAA, TRC
