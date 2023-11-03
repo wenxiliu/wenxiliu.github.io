@@ -1,4 +1,3 @@
----
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -16,7 +15,7 @@ author_profile: true
 {% endfor %}
 
 ## 2023 
-* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023**
+* <font size=2>*A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023**</font>
 * *Monocular Depth Estimation for Glass Walls with Context: A New Dataset and Method*<br>Yuan Liang, Bailin Deng, **Wenxi Liu**, Jing Qin, Shengfeng He<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023**
 * *Distractor-aware Event-based Tracking*<br>Yingkai Fu, Meng Li, **Wenxi Liu**, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang<br> **IEEE Transactions on Image Processing, 2023**
 * *Edge Distraction-aware Salient Object Detection* <br>Sucheng Ren, **Wenxi Liu**, Jianbo Jiao, Guoqiang Han, Shengfeng He<br> **IEEE Transactions on Multimedia, 2023**
