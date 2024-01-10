@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## 2024
-* *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)**[[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][code]
+* *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)**[[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]
 ## 2023 
 * *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023** [[paper](https://www.nature.com/articles/s41467-023-41165-1)][[code](https://github.com/lxxcontinue/SSCOR)]
 * *Monocular Depth Estimation for Glass Walls with Context: A New Dataset and Method*<br>Yuan Liang, Bailin Deng, **Wenxi Liu**, Jing Qin, Shengfeng He<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023**
