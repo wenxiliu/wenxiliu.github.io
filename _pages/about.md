@@ -16,7 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
-:   - *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery* accepted by RA-L. Released codes is [here](https://github.com/liqiokkk/SGHRQ)! It is the extended work of [FCtL](https://github.com/liqiokkk/FCtL) (Dec. 2023)
+:   - *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery* accepted by RA-L. Released codes is [here](https://github.com/liqiokkk/SGHRQ)! It follows the unfinished business of ultra-high resolution segmentation from [FCtL](https://github.com/liqiokkk/FCtL):D (Dec. 2023)
 :   - *A deep learning-based stripe self-correction method for stitched microscopic images* accepted by Nature Communications (Aug. 2023)
 
 Services
