@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 ## 2024
-* *Efficient Semantic Segmentation for Compressed Video*<br>Jiaxin Cai, Qi Li, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA 2024**
-* *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)**[[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]
+* *Efficient Semantic Segmentation for Compressed Video*<br>Jiaxin Cai, Qi Li, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA**
+* *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]
 * *Semi-Supervised Domain Generalization with Evolving Intermediate Domain*<br>Luojun Lin, Han Xie, Zhishu Sun, Weijie Chen, **Wenxi Liu***, Yuanlong Yu, Lei Zhang<br>**Pattern Recognition**
 
 ## 2023 
