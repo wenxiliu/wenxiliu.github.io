@@ -19,12 +19,7 @@ author_profile: true
 [^1]: My reference.
 
 ## 2024
-<ul>  
-  <li style="font-size: 12px;">这是一个较小的文字列表项。</li>  
-  <li style="font-size: 12px;">这是另一个较小的文字列表项。</li>  
-</ul>
-
-* <span style="font-size:5px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, Qi Li, Xindai Lin, Weixiang Yang, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
+* <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, Qi Li, Xindai Lin, Weixiang Yang, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
 * *Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, Jiaxin Cai, Qi Li, Chenyang Liao, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**
 * *Efficient Semantic Segmentation for Compressed Video*<br>Jiaxin Cai, Qi Li, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA**
 * *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]
