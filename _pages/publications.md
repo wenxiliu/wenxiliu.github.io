@@ -20,8 +20,8 @@ author_profile: true
 
 ### 2024
 * <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
-* <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, <u>Jiaxin Cai</u>, <u>Qi Li</u>, Chenyang Liao, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
-* <span style="font-size:15px;">*Efficient Semantic Segmentation for Compressed Video*<br><u>Jiaxin Cai</u>, <u>Qi Li</u>, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA**</span>
+* <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, <u>Jiaxin Cai</u>, <u>Qi Li</u>, <u>Chenyang Liao</u>, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
+* <span style="font-size:15px;">*Efficient Semantic Segmentation for Compressed Video*<br><u>Jiaxin Cai</u>, <u>Qi Li</u>, <u>Yulin Shen</u>, Jia Pan, **Wenxi Liu***<br>**ICRA**</span>
 * <span style="font-size:15px;">*Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br><u>Qi Li</u>, <u>Jiaxin Cai</u>, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]</span>
 * <span style="font-size:15px;">*Semi-Supervised Domain Generalization with Evolving Intermediate Domain*<br>Luojun Lin, Han Xie, Zhishu Sun, Weijie Chen, **Wenxi Liu***, Yuanlong Yu, Lei Zhang<br>**Pattern Recognition**</span>
 
