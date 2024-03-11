@@ -16,6 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
+:   - *Monocular BEV Perception of Road Scenes via Front-to-Top View Projection* extended from [PYVA](https://github.com/JonDoe-297/cross-view), accepted by IEEE TPAMI!
 :   - *Ultra-high resolution image segmentation via locality-aware context fusion and alternating local enhancement* extended from [FCtL](https://github.com/liqiokkk/FCtL), accepted by IJCV! The codes will be released soon. (Mar. 2024)
 :   - *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery* accepted by RA-L. Released codes can be found [here](https://github.com/liqiokkk/SGHRQ)! (Dec. 2023)
 :   - *A deep learning-based stripe self-correction method for stitched microscopic images* accepted by Nature Communications. Released codes can be found [here](https://github.com/lxxcontinue/SSCOR). (Aug. 2023)
