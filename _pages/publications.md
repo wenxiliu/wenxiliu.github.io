@@ -19,6 +19,7 @@ author_profile: true
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
 ### 2024
+* *Monocular BEV Perception of Road Scenes via Front-to-Top View Projection*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Weixiang Yang</u>, <u>Jiaxin Cai</u>, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**
 * <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
 * <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, <u>Jiaxin Cai</u>, <u>Qi Li</u>, <u>Chenyang Liao</u>, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
 * <span style="font-size:15px;">*Efficient Semantic Segmentation for Compressed Video*<br><u>Jiaxin Cai</u>, <u>Qi Li</u>, <u>Yulin Shen</u>, Jia Pan, **Wenxi Liu***<br>**ICRA**</span>
