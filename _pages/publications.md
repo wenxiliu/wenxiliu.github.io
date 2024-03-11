@@ -18,7 +18,7 @@ author_profile: true
 ## Recent Publication[^1]
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
-### 2024
+## 2024
 * <span style="font-size:15px;">*Monocular BEV Perception of Road Scenes via Front-to-Top View Projection*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Weixiang Yang</u>, <u>Jiaxin Cai</u>, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**
 * <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
 * <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, <u>Jiaxin Cai</u>, <u>Qi Li</u>, <u>Chenyang Liao</u>, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
@@ -66,8 +66,8 @@ author_profile: true
 * <span style="font-size:15px;">*3D Deconvolutional Networks for the Unsupervised Representation Learning of Human Motions* <br>Chun-Yang Zhang, Yongyi Xiao, Jin-Cheng Lin, C. L. Philip Chen, **Wenxi Liu**, Yuhong Tong <br>**IEEE Transactions on Cybernetics 2020**</span>
 * <span style="font-size:15px;">*Stereoscopic Image Generation from Light Field with Disparity Scaling and Super-Resolution* <br>Tao Yan, Jianbo Jiao, **Wenxi Liu**, Rynson WH Lau <br>**IEEE Trans. Image Processing (TIP), 2020**</span>
 * <span style="font-size:15px;">*Generating Stereoscopic Images with Convergence Control Ability from a Light Field Image Pair* <br>Tao Yan, Yiming Mao, Jianming Wang, **Wenxi Liu**, Xiaohua Qian, and Rynson Lau <br>**IEEE Trans. Circuits Syst. Video Techn. (TCSVT), 2020**</span>
-* <span style="font-size:15px;">*Recurrent Distillation based Crowd Counting* <br>Yue Gu, **Wenxi Liu*** <br>**Arxiv 2020** [[arxiv](https://arxiv.org/abs/2006.07755)]</span>
-* <span style="font-size:15px;">*Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu***, Shengfeng He, Jia Pan, Antoni B. Chan<br>**Arxiv 2020** [[arxiv](https://arxiv.org/abs/2006.05127)]</span>
+* <span style="font-size:15px;">*Recurrent Distillation based Crowd Counting* <br>Yue Gu, **Wenxi Liu*** <br>**Preprint** [[arxiv](https://arxiv.org/abs/2006.07755)]</span>
+* <span style="font-size:15px;">*Over-crowdedness Alert! Forecasting the Future Crowd Distribution* <br>Yuzhen Niu, Weifeng Shi, **Wenxi Liu***, Shengfeng He, Jia Pan, Antoni B. Chan<br>**Preprint** [[arxiv](https://arxiv.org/abs/2006.05127)]</span>
 
 ## 2019
 * <span style="font-size:15px;">*Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery*<br><u>Xiaosheng Yan</u>, <u>Feigege Wang</u>, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He, Jia Pan <br>**ICCV 2019** [[arxiv](https://arxiv.org/abs/1907.09381)]</span>
