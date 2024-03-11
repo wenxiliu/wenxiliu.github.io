@@ -16,17 +16,17 @@ author_profile: true
 {% endfor %}
 
 ## Recent Publication[^1]
-[^1]: * indicates the corresponding author. The underline 
+[^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
 ### 2024
-* <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, Weixiang Yang, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
-* <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, Jiaxin Cai, Qi Li, Chenyang Liao, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
-* <span style="font-size:15px;">*Efficient Semantic Segmentation for Compressed Video*<br>Jiaxin Cai, Qi Li, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA**</span>
-* <span style="font-size:15px;">*Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>Qi Li, Jiaxin Cai, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]</span>
+* <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u><u>Qi Li</u></u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
+* <span style="font-size:15px;">*Learning Nighttime Semantic Segmentation the Hard Way*<br>**Wenxi Liu**, <u>Jiaxin Cai</u>, <u>Qi Li</u>, Chenyang Liao, Jingjing Cao, Shengfeng He, Yuanlong Yu<br>**ACM Transactions on Multimedia Computing Communications and Applications**</span>
+* <span style="font-size:15px;">*Efficient Semantic Segmentation for Compressed Video*<br><u>Jiaxin Cai</u>, <u>Qi Li</u>, Yulin Shen, Jia Pan, **Wenxi Liu***<br>**ICRA**</span>
+* <span style="font-size:15px;">*Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br><u>Qi Li</u>, <u>Jiaxin Cai</u>, Jiexin Luo, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]</span>
 * <span style="font-size:15px;">*Semi-Supervised Domain Generalization with Evolving Intermediate Domain*<br>Luojun Lin, Han Xie, Zhishu Sun, Weijie Chen, **Wenxi Liu***, Yuanlong Yu, Lei Zhang<br>**Pattern Recognition**</span>
 
 ## 2023 
-* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, Qi Li, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023** [[paper](https://www.nature.com/articles/s41467-023-41165-1)][[code](https://github.com/lxxcontinue/SSCOR)]
+* *A deep learning-based stripe self-correction method for stitched microscopic images*<br>Shu Wang, Xiaoxiang Liu, Yueying Li, Xinquan Sun, <u>Qi Li</u>, Yinhua She, Yixuan Xu, Xingxin Huang, Ruolan Lin, Deyong Kang, Xingfu Wang, Haohua Tu, **Wenxi Liu***, Feng Huang, Jianxin Chen<br>**Nature Communications, 2023** [[paper](https://www.nature.com/articles/s41467-023-41165-1)][[code](https://github.com/lxxcontinue/SSCOR)]
 * *Monocular Depth Estimation for Glass Walls with Context: A New Dataset and Method*<br>Yuan Liang, Bailin Deng, **Wenxi Liu**, Jing Qin, Shengfeng He<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023**
 * *Distractor-aware Event-based Tracking*<br>Yingkai Fu, Meng Li, **Wenxi Liu**, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang<br> **IEEE Transactions on Image Processing, 2023**
 * *Edge Distraction-aware Salient Object Detection* <br>Sucheng Ren, **Wenxi Liu**, Jianbo Jiao, Guoqiang Han, Shengfeng He<br> **IEEE Transactions on Multimedia, 2023**
@@ -44,8 +44,8 @@ author_profile: true
 * *Perceptual-aware and Restorable Real-time Image Downscaling* <br>Yuzhen Niu, Luwei Zheng, Jiaqi Lin, Jianbin Wu, **Wenxi Liu\*** <br>**ICME 2022**
 
 ## 2021
-* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br>Qi Li, Weixiang Yang, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
-* *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br>Weixiang Yang, Qi Li, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
+* *From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation* <br><u>Qi Li</u>, <u>Weixiang Yang</u>, **Wenxi Liu\***, Yuanlong Yu, Shengfeng He <br>**ICCV 2021** [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_From_Contexts_to_Locality_Ultra-High_Resolution_Image_Segmentation_via_Locality-Aware_ICCV_2021_paper.pdf)][[arxiv](https://arxiv.org/abs/2109.02580)][[code](https://github.com/liqiokkk/FCtL)]
+* *Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-view Transformation*, <br><u>Weixiang Yang</u>, <u>Qi Li</u>, **Wenxi Liu\***, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**CVPR 2021** [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf)][[code](https://github.com/JonDoe-297/cross-view)]
 * *Reciprocal Transformations for Unsupervised Video Object Segmentation* <br>Sucheng Ren, **Wenxi Liu**, Yongtuo Liu, Haoxin Chen, Guoqiang Han, Shengfeng He <br>**CVPR 2021**
 * *Coarse-to-Fine Person Re-Identification with Auxiliary-Domain Classification and Second-Order Information Bottleneck* <br>Anguo Zhang, Yueming Gao, Yuzhen Niu, **Wenxi Liu**, Yongcheng Zhou <br>**CVPR 2021**
 * *A Vision-based Irregular Obstacle Avoidance Framework via Deep Reinforcement Learning* <br>Lingping Gao, Jianchuan Ding, **Wenxi Liu**, Haiyin Piao, Yuxin Wang, Xin Yang, Baocai Yin <br>**IROS 2021**
