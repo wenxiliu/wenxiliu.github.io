@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Recent Publications[^1]
+## Selected Publications[^1]
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
 ## 2024
