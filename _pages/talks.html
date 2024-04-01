@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Projects"
 permalink: /talks/
 author_profile: true
 ---
@@ -9,8 +9,14 @@ author_profile: true
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
+{% endif %}Projects
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<table style="padding:10px" border="1">
+  <tr height="200pix" style='border:none;'>
+	<td><img src="https://csip.fzu.edu.cn/wp-content/uploads/2021/09/iccv21.png"  align="left" alt="" width="1024" height="512"></td>
+	<td><em>From Contexts to Locality: Ultra-high Resolution Image Segmentation via Locality-aware Contextual Correlation. </em><br>Qi Li, Weixiang Yang, <strong>Wenxi Liu*</strong>, Yuanlong Yu*, Shengfeng He<br><strong>ICCV 2021 <font color=red>(CCF-A)</font></strong> [<a href="https://arxiv.org/abs/2109.02580">arxiv</a>][<a href="https://github.com/liqiokkk/FCtL">code</a>]</td>
+  </tr>
