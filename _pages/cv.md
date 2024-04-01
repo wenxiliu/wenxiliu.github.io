@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Research Projects
+
 <table style="padding:10px" border="0">
   <tr height="200pix" style='border:none;'>
 	<td><img src="https://csip.fzu.edu.cn/wp-content/uploads/2021/09/iccv21.png"  align="left" alt="" width="256" height="256"></td>
