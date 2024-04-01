@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <!-- <img src='/images/zhu_aaai23_UDA.png' width="100" style="float: left; margin: 15px"> -->
-<img src="https://csip.fzu.edu.cn/wp-content/uploads/2021/09/iccv21.png" width="512" style="float: left; margin: 15px"><br>
+<img src="https://csip.fzu.edu.cn/wp-content/uploads/2021/09/iccv21.png" width="512" style="float: left; margin: 15px"><br /><br />
 **Ultra-high Resolution Segmentation:** Segmenting ultra-high resolution images (i.e., >2K) is a challenging problem, which may benefit remote sensing or medical imaging fields. We intend to push it to the limit to resolve this problem in an efficient manner. <br>
 * <span style="font-size:13px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
 * <span style="font-size:13px;">*Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br><u>Qi Li</u>, <u>Jiaxin Cai</u>, <u>Jiexin Luo</u>, Yuanlong Yu, Jason Gu, Jia Pan, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]</span>
