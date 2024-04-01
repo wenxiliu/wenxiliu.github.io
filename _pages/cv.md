@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <!-- <img src='/images/zhu_aaai23_UDA.png' width="100" style="float: left; margin: 15px"> -->
 <img src="https://csip.fzu.edu.cn/wp-content/uploads/2021/09/iccv21.png" width="512" style="float: center; margin: 15px"><br /><br />
-**Ultra-high Resolution Segmentation** <br /><br />
+**Ultra-high Resolution Image Understanding** <br /><br />
 <span style="font-size:16px;">Understanding ultra-high resolution images (i.e., >2K) is a challenging problem due to the computational burden, which can benefit the fields of remote sensing or medical imaging. We intend to push it to the limit to strike the balance between effectiveness and efficiency. </span><br>
 * <span style="font-size:13px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**International Journal of Computer Vision (IJCV), 2024** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
 * <span style="font-size:13px;">*Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery*<br>**IEEE Robotics and Automation Letters (RA-L), 2024** [[paper](https://ieeexplore.ieee.org/document/10380673)][[arxiv](https://arxiv.org/abs/2310.04721)][[code](https://github.com/liqiokkk/SGHRQ)]</span>
