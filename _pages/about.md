@@ -16,6 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
+:   - Two papers accepted by CVPR 2025! (Feb. 2025)
 :   - *Monocular BEV Perception of Road Scenes via Front-to-Top View Projection* extended from [PYVA](https://github.com/JonDoe-297/cross-view), accepted by IEEE TPAMI! (Mar. 2024)
 :   - *Ultra-high resolution image segmentation via locality-aware context fusion and alternating local enhancement* extended from [FCtL](https://github.com/liqiokkk/FCtL), accepted by IJCV! The codes will be released soon. (Mar. 2024)
 :   - *Memory-Constrained Semantic Segmentation for Ultra-High Resolution UAV Imagery* accepted by RA-L. Released codes can be found [here](https://github.com/liqiokkk/SGHRQ)! (Dec. 2023)
