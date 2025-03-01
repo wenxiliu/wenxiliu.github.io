@@ -18,6 +18,10 @@ author_profile: true
 ## Selected Publications[^1]
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
+## 2025
+* <span style="font-size:15px;">*Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*<br><u>Jiaxin Cai</u>, <u>Jingze Su</u>, <u>Qi Li</u>, Wenjie Yang, Shu Wang, Tiesong Zhao, Shengfeng He, **Wenxi Liu***<br>**CVPR**
+* <span style="font-size:15px;">*URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration*<br>Rui Xu, Yuzhen Niu, Yuezhou Li, Huangbiao Xu, **Wenxi Liu**, Yuzhong Chen<br>**CVPR**
+
 ## 2024
 * <span style="font-size:15px;">*Monocular BEV Perception of Road Scenes via Front-to-Top View Projection*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Weixiang Yang</u>, <u>Jiaxin Cai</u>, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan<br>**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**
 * <span style="font-size:15px;">*Ultra-high Resolution Image Segmentation via Locality-aware Context Fusion and Alternating Local Enhancement*<br>**Wenxi Liu**, <u>Qi Li</u>, <u>Xindai Lin</u>, <u>Weixiang Yang</u>, Shengfeng He, Yuanlong Yu<br>**International Journal of Computer Vision (IJCV)** [[arxiv](https://arxiv.org/abs/2109.02580)]</span>
