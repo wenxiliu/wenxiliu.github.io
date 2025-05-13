@@ -16,6 +16,7 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 News
+:   - *Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*, accepted as a CVPR Oral paper! The codes will be released soon! (Apr. 2025)
 :   - Two papers accepted by CVPR 2025! (Feb. 2025)
 :   - *Monocular BEV Perception of Road Scenes via Front-to-Top View Projection* extended from [PYVA](https://github.com/JonDoe-297/cross-view), accepted by IEEE TPAMI! (Mar. 2024)
 :   - *Ultra-high resolution image segmentation via locality-aware context fusion and alternating local enhancement* extended from [FCtL](https://github.com/liqiokkk/FCtL), accepted by IJCV! The codes will be released soon. (Mar. 2024)
