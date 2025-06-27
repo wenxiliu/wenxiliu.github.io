@@ -19,7 +19,7 @@ author_profile: true
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
 ## 2025
-* <span style="font-size:15px;">*URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration*<br><u>Qi Li</u>, <u>Jiexin Luo</u>, <u>Chunxiao Chen</u>, <u>Jiaxin Cai</u>, Wenjie Yang, Yuanlong Yu, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)**
+* <span style="font-size:15px;">*Playing to the Strengths of High- and Low-Resolution Cues for Ultra-high Resolution Image Segmentation*<br><u>Qi Li</u>, <u>Jiexin Luo</u>, <u>Chunxiao Chen</u>, <u>Jiaxin Cai</u>, Wenjie Yang, Yuanlong Yu, **Wenxi Liu***<br>**IEEE Robotics and Automation Letters (RA-L)**
 * <span style="font-size:15px;">*Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*<br><u>Jiaxin Cai</u>, <u>Jingze Su</u>, <u>Qi Li</u>, Wenjie Yang, Shu Wang, Tiesong Zhao, Shengfeng He, **Wenxi Liu***<br>**CVPR (Oral)**
 * <span style="font-size:15px;">*URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration*<br>Rui Xu, Yuzhen Niu, Yuezhou Li, Huangbiao Xu, **Wenxi Liu**, Yuzhong Chen<br>**CVPR**
 
