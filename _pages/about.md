@@ -15,7 +15,11 @@ About Me
 Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
+PhD Students
+:   [Qi LI](https://qili2024.github.io/), Jiaxin CAI, Renjie HE, Jingze SU
+
 News
+:   - The codes of *Attentive and Contrastive Image Manipulation Localization with Boundary Guidance* are released. (June 2025)
 :   - *Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*, accepted as a CVPR Oral paper! The codes will be released soon! (Apr. 2025)
 :   - Two papers accepted by CVPR 2025! (Feb. 2025)
 :   - *Monocular BEV Perception of Road Scenes via Front-to-Top View Projection* extended from [PYVA](https://github.com/JonDoe-297/cross-view), accepted by IEEE TPAMI! (Mar. 2024)
