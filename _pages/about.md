@@ -19,6 +19,7 @@ PhD Students
 :   [Qi LI](https://qili2024.github.io/), Jiaxin CAI, Renjie HE, Jingze SU
 
 News
+:   - The codes of our CVPR Oral paper *Playing to the Strengths of High- and Low-Resolution Cues for Ultra-high Resolution Image Segmentation* are released! Please find it [[here](https://github.com/imcjx/KLB)]. (Aug. 2025)
 :   - The codes of *Attentive and Contrastive Image Manipulation Localization with Boundary Guidance* (TIFS'24) are released. Please find it [here](https://github.com/ZZZH85/ACBG). (June 2025)
 :   - *Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*, accepted as a CVPR Oral paper! The codes will be released soon! (Apr. 2025)
 :   - Two papers accepted by CVPR 2025! (Feb. 2025)
