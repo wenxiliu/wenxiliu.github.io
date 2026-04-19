@@ -1,3 +1,56 @@
+﻿
+<style>
+.page__content h2 {
+  font-size: 1.4em;
+  color: #2D5016;
+  border-bottom: 2px solid #C17817;
+  padding-bottom: 6px;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+.page__content h2:first-child { margin-top: 0.5em; }
+.page__content ul li {
+  list-style: none;
+  margin-left: -1.5em;
+  margin-bottom: 0.8em;
+  padding: 12px 16px;
+  background: #f9fcf9;
+  border-left: 4px solid #C17817;
+  border-radius: 0 6px 6px 0;
+  line-height: 1.7;
+  transition: all 0.2s;
+}
+.page__content ul li:hover {
+  background: #f0f7f0;
+  border-left-color: #2D5016;
+}
+.page__content ul li > strong:last-child {
+  color: #2D5016 !important;
+  font-weight: 700;
+  font-size: 0.88em;
+}
+.page__content ul li a[href*="github"],
+.page__content ul li a[href*="arxiv"],
+.page__content ul li a[href*="code"],
+.page__content ul li a[href*="github.com"] {
+  display: inline-block;
+  font-size: 0.75em;
+  color: #fff;
+  background: #2D5016;
+  padding: 1px 7px;
+  border-radius: 3px;
+  text-decoration: none;
+  margin: 0 2px;
+  transition: background 0.2s;
+}
+.page__content ul li a:hover { background: #C17817; }
+.page__content ul li u {
+  color: #2D5016;
+  text-decoration: none;
+  border-bottom: 1px dashed #C17817;
+}
+.page__content ul { list-style: none; padding-left: 0; }
+</style>
 ---
 layout: archive
 title: ""
