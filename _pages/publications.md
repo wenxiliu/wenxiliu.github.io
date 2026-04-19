@@ -53,7 +53,7 @@
 </style>
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -62,9 +62,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+{% assign base_path = site.url | append: site.baseurl %}
 
-{% for post in site.publications reversed %
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
