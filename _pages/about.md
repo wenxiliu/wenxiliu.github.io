@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_color: "#2D5016"
 ---
 
 <style>
