@@ -6,7 +6,120 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_color: "#2D5016"
 ---
+
+<style>
+/* News 时间轴样式 */
+.page__content dl dt {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #2D5016;
+  border-bottom: 2px solid #C17817;
+  padding-bottom: 4px;
+  margin-bottom: 16px !important;
+}
+.page__content dl dd {
+  margin-left: 0 !important;
+  margin-bottom: 24px !important;
+}
+.page__content dl dd ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.page__content dl dd ul li {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+  font-size: 0.95em;
+}
+.page__content dl dd ul li::before {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 10px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #C17817;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #C17817;
+}
+.page__content dl dd ul li:first-child::before {
+  background: #2D5016;
+  box-shadow: 0 0 0 1px #2D5016;
+  width: 10px;
+  height: 10px;
+  left: 5px;
+  top: 9px;
+}
+.page__content dl dd ul {
+  border-left: 2px solid #e8f0e8;
+  padding-left: 0;
+}
+.page__content dl dd ul li {
+  padding-left: 28px;
+}
+.page__content dl dd ul li::before {
+  left: -1px;
+}
+.page__content dl dd ul li:first-child::before {
+  left: -2px;
+}
+
+/* Research Interests 样式 */
+.page__content dl:nth-of-type(2) dt {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #2D5016;
+  border-bottom: 2px solid #C17817;
+  padding-bottom: 4px;
+  margin-bottom: 8px !important;
+}
+
+/* PhD Students 样式 */
+.page__content dl:nth-of-type(3) dt {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #2D5016;
+  border-bottom: 2px solid #C17817;
+  padding-bottom: 4px;
+  margin-bottom: 8px !important;
+}
+.page__content dl:nth-of-type(3) dd a {
+  color: #2D5016;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid #C17817;
+  padding-bottom: 1px;
+  transition: all 0.2s;
+}
+.page__content dl:nth-of-type(3) dd a:hover {
+  color: #C17817;
+}
+
+/* Services 样式 */
+.page__content dl:last-of-type dt {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #2D5016;
+  border-bottom: 2px solid #C17817;
+  padding-bottom: 4px;
+  margin-bottom: 8px !important;
+}
+
+/* 链接增强 */
+.page__content a {
+  color: #2D5016;
+  text-decoration-color: #C17817;
+}
+.page__content a:hover {
+  color: #C17817;
+}
+</style>
 
 
 About Me
