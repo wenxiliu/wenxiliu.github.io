@@ -71,6 +71,13 @@ author_profile: true
 ## Selected Publications[^1]
 [^1]: The asterisk indicates the corresponding author. The underlined author names are (were) my supervised students.
 
+## 2026
+* <span style="font-size:15px;">*Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement*<br>Jingze Su, Tianle Zhu, 
+Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, **Wenxi Liu***<br>**Medical Image Analysis**
+* <span style="font-size:15px;">*ViFIT-assisted Histopathology: From H&E Style Standardization to Virtual Fiber Image Transformation*<br>Shu Wang, Xiao Zhang, Xingfu Wang, Chenyong Lv, Xiahui Han, Xiong Lin, Deyong Kang, Ruolan Lin, Liwen Hu, Haohua Tu, Feng Huang, **Wenxi Liu***, Jianxin Chen<br>**Medical Image Analysis**
+* <span style="font-size:15px;">*From Label-Free Multiphoton Imaging to Pathological Reports: A Vision-Language Breast Cancer Margin Pathological Diagnosis System*<br>Shu Wang, Jingze Su, Xiahui Han, Deyong Kang, Xiao Zhang, Fei Xu, Changzu Liu, Junlin Pan, Xingfu Wang, Qiaohui Zhan, Aimin Wang, Feng Huang, Heping Cheng, **Wenxi Liu***, Ruolan Lin, Jianxin Chen<br>**Advanced Science**
+* <span style="font-size:15px;">*Multimodal Image Representation Learning With Limited Visual-Tactile Data*<br>Liuxiang Qiu, Hui Da, **Wenxi Liu**, Yuzhen Niu, Hanli Wang, Tiesong Zhao<br>**IEEE Transactions on Image Processing**
+
 ## 2025
 * <span style="font-size:15px;">*Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation*<br><u>Jiaxin Cai</u>, <u>Jingze Su</u>, <u>Qi Li</u>, Wenjie Yang, Shu Wang, Tiesong Zhao, Shengfeng He, **Wenxi Liu***<br>**CVPR (Oral)**[[code](https://github.com/imcjx/KLB)]
 * <span style="font-size:15px;">*URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration*<br>Rui Xu, Yuzhen Niu, Yuezhou Li, Huangbiao Xu, **Wenxi Liu**, Yuzhong Chen<br>**CVPR**
