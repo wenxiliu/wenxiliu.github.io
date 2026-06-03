@@ -76,6 +76,7 @@ author_profile: true
 Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, **Wenxi Liu***<br>**Medical Image Analysis**
 * <span style="font-size:15px;">*ViFIT-assisted Histopathology: From H&E Style Standardization to Virtual Fiber Image Transformation*<br>Shu Wang, Xiao Zhang, Xingfu Wang, Chenyong Lv, Xiahui Han, Xiong Lin, Deyong Kang, Ruolan Lin, Liwen Hu, Haohua Tu, Feng Huang, **Wenxi Liu***, Jianxin Chen<br>**Medical Image Analysis**
 * <span style="font-size:15px;">*From Label-Free Multiphoton Imaging to Pathological Reports: A Vision-Language Breast Cancer Margin Pathological Diagnosis System*<br>Shu Wang, Jingze Su, Xiahui Han, Deyong Kang, Xiao Zhang, Fei Xu, Changzu Liu, Junlin Pan, Xingfu Wang, Qiaohui Zhan, Aimin Wang, Feng Huang, Heping Cheng, **Wenxi Liu***, Ruolan Lin, Jianxin Chen<br>**Advanced Science**
+* <span style="font-size:15px;">*Residual Implicit Diffusion Model for Arbitrary-Scale MRI Super-Resolution*<br>Juhao Gao, Yulin Shen, Tong Tong, Xingsi Xue, Biao Jia, Jia Pan, **Wenxi Liu***<br>**Biomedical Signal Processing and Control**
 * <span style="font-size:15px;">*Multimodal Image Representation Learning With Limited Visual-Tactile Data*<br>Liuxiang Qiu, Hui Da, **Wenxi Liu**, Yuzhen Niu, Hanli Wang, Tiesong Zhao<br>**IEEE Transactions on Image Processing**
 
 ## 2025
