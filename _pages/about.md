@@ -127,9 +127,10 @@ Research Interests
 :   vision-based crowd understanding, image segmentation, and image processing, etc.
 
 PhD Students
-:   [Qi LI](https://qili2024.github.io/), Jiaxin CAI, Renjie HE, Jingze SU
+:   [Qi LI](Graduated, https://qili2024.github.io/), Jiaxin CAI, Jingze SU, Gaocheng ZHANG
 
 News
+:   - *2D Gaussian Splatting for Semantic Segmentation via Discrete-to-Continuous Representation toward Boundary-Preserving Feature Upsampling*, accepted by IEEE TPAMI! The codes will be released soon. (Nov. 2026)
 :   - The codes of our CVPR Oral paper *Keep the Balance: A Parameter-Efficient Symmetrical Framework for RGB+X Semantic Segmentation* are released! Please find it [here](https://github.com/imcjx/KLB). (Aug. 2025)
 :   - The codes of *Attentive and Contrastive Image Manipulation Localization with Boundary Guidance* (TIFS'24) are released. Please find it [here](https://github.com/ZZZH85/ACBG). (June 2025)
 :   - Two papers accepted by CVPR 2025! (Feb. 2025)
